@@ -1,12 +1,7 @@
 # teletify
-Spotify track updater in bio for Telegram. Created by @B_Votson from B_Votson Team.
+Spotify track updater in bio for Telegram. Created by @v0ts3n || BVT
 //RUSSIAN
 
-Teletify - приложение для пк, которое берет трек, который играет на данный момент на аккаунте Spotify и пишет его в био Телеграмма. Сейчас находиться в бете.
+Teletify - приложение для пк, которое берет трек, который играет на данный момент на аккаунте Spotify и пишет его в био Телеграмма
+Говнокод да и ладно
 
-
-
-
-
-
-I'll never forget you.
