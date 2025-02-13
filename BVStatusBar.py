@@ -28,13 +28,13 @@ try:
     from idlelib.tooltip import Hovertip
 
     # Инициализация объекта Spotipy
-    #sp = spotipy.Spotify(auth_manager=SpotifyOAuth(client_id='5c2fa33e816441f68e51540561e605ae', client_secret='9fd28d95c3af45e39bce47b1844eb89d', redirect_uri='http://bvotson.byethost7.com', scope='user-read-currently-playing'))
+    #sp = spotipy.Spotify(auth_manager=SpotifyOAuth(client_id='', client_secret='', redirect_uri='http://bvotson.byethost7.com', scope='user-read-currently-playing'))
     client_id = input("SPOTIFY CLIENT ID: ")
     if client_id == "":
-        client_id="5c2fa33e816441f68e51540561e605ae"
+        client_id=""
     client_secret = input("SPOTIFY SECRET ID: ")
     if client_secret == "":
-        client_secret="9fd28d95c3af45e39bce47b1844eb89d"
+        client_secret=""
     redirect_url = input("SPOTIFY REDIRECT URL: ")
     if redirect_url == "":
         redirect_url="http://bvotson.byethost7.com"
