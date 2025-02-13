@@ -1,8 +1,8 @@
 try:
 
     
-    api_id = 15304600
-    api_hash = '12c4ed983eb315a4ea4ebb15381cf147'
+    api_id = 0000
+    api_hash = '1111'
 
 
     #FULL PROJECT BY B_VOTSON FROM B_VOTSON TEAM
